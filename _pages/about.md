@@ -6,13 +6,10 @@ subtitle: PhD Candidate, <a href='https://www.rutgers.edu'>Rutgers University</a
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: true
+  image: 
+  image_circular: false
   more_info: >
-    <p>School of Communication and Information</p>
-    <p>Rutgers University</p>
-    <p>New Brunswick, NJ</p>
-
+  
 selected_papers: true
 social: true
 
